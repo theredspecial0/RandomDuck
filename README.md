@@ -2,6 +2,8 @@
 
 # RandomDuck
  Duck images using random-d.uk API. Written in SwiftUI. iOS 15 and higher (as it uses AsyncImage).
+ 
+<img src="assets/RandomDuck-Preview.png">
 
 # Installing
  You can compile yourself or download the .IPA from the releases tab. Install the .IPA with any tool like AltStore or TrollStore.
